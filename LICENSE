@@ -1,21 +1,54 @@
-Cube Proprietary License v1.0
+# LICENSE-CUBE.md – Ownership & Meaning Statement
 
-Copyright (c) 2025 Cube Ecosystem
+This document affirms the intellectual and operational ownership of the Cube Ecosystem, including all smart contracts, branding assets, documentation, and governance structures, as originally authored and stewarded by **Cyrus EF**.
 
-This software and documentation are proprietary assets of the Cube Ecosystem, created and maintained by AZIN (the founder). All rights are reserved.
+---
 
-Permission is hereby granted to view and reference the contents of this repository for informational and verification purposes only, including for audit, listing, and research.
+## 🧱 Ownership & Stewardship
 
-However, the following actions are strictly prohibited without prior written consent from the founder:
+Cube is a meaning-driven token ecosystem built on the Polygon (MATIC) network. All code, contracts, and creative assets are authored and maintained by Cyrus EF, with operational roles assigned to two trusted family members.
 
-- Reuse, fork, or redeploy any part of the codebase or documentation
-- Modify or distribute the contents in any form
-- Use the Cube name, logo, or brand assets for derivative projects
-- Claim ownership or authorship of any part of this repository
+- Founder: Cyrus EF  
+- Project Email: cubecoin.project@gmail.com  
+- Founder Email: cyrus.cbf@gmail.com  
+- X (Twitter): [@cyruscbf](https://x.com/cyruscbf)  
+- GitHub: [github.com/cubecoinproject-ops](https://github.com/cubecoinproject-ops)
 
-Violation of this license may result in legal action and permanent disqualification from any future participation in the Cube ecosystem.
+Cube maintains a dual-email system to separate operational communications from philosophical outreach.
 
-For licensing inquiries or partnership requests, contact the Cube team via GitHub or Medium.
+---
 
-This license is governed by the principles of meaning, autonomy, and stewardship that define the Cube project.
+## 🔐 Intellectual Property & Brand Protection
 
+All smart contracts, logos, documentation, and branding elements within this repository are proprietary to the Cube Ecosystem. Unauthorized use, replication, or misrepresentation of Cube’s code, name, or identity is strictly prohibited.
+
+This includes but is not limited to:
+
+- Use of the name “CubeCoin” or “Cube Ecosystem” in unrelated projects  
+- Forking or deploying Cube contracts without attribution and permission  
+- Reusing Cube’s logo, SVG assets, or documentation for external purposes  
+- Misrepresenting Cube’s origin, founder, or governance structure
+
+Cube is not affiliated with any other token, project, or organization using similar names or symbols.
+
+---
+
+## 🛡️ Legal & Ethical Position
+
+Cube reserves the right to pursue protective action against brand infringement or unauthorized use.  
+This license reflects not only legal protection, but philosophical integrity.
+
+All contributions, forks, or integrations must respect Cube’s meaning, autonomy, and governance principles.
+
+---
+
+## 🧠 Philosophy & Meaning
+
+Cube is more than a token—it is a system of meaning, resilience, and trust.  
+Every contract and process is designed to preserve autonomy and prepare for gradual decentralization.
+
+This license is part of Cube’s ethical foundation, ensuring that control, clarity, and stewardship remain intact.
+
+---
+
+© 2025 Cube Ecosystem. All rights reserved.
