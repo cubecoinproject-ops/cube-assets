@@ -87,7 +87,8 @@ cube-assets/
 
 Cube was founded by **Cyrus EF**, a meaning-driven architect focused on ethical systems and resilient infrastructure.  
 Founder communications are handled via Gmail due to platform constraints.  
-All updates are signed and published by Cyrus EF.
+All updates are signed and published by Cyrus EF.  
+Public profile: [X (Twitter)](https://x.com/cyruscbf)
 
 ---
 
