@@ -1,3 +1,5 @@
+![Cube Logo](cube.svg)
+
 # 🧱 Cube Ecosystem – Official Page
 
 Welcome to the official page of **CubeCoin**, a meaning-driven token ecosystem built on the Polygon (MATIC) network.
@@ -37,6 +39,18 @@ Cube is stewarded by family, documented for community, and protected for the fut
 
 ---
 
+## 💰 Tokenomics Overview
+
+- **Total Supply**: `30,000,000,000 CUBE`  
+- **Allocation**:
+  - `15B` for private & public sale  
+  - `5B` for airdrop and community incentives  
+  - `10B` reserved for treasury and deflationary burns
+
+All allocations are managed via the `Unified` contract and logged transparently.
+
+---
+
 ## 👤 Founder
 
 Cube was founded by **Cyrus EF**, a meaning-driven architect focused on ethical systems and resilient infrastructure. Stewardship is shared with two trusted brothers, each holding operational roles and participating in governance.
@@ -46,6 +60,7 @@ Cube was founded by **Cyrus EF**, a meaning-driven architect focused on ethical 
 ## 📬 Contact & Updates
 
 - GitHub: [github.com/cubecoinproject-ops](https://github.com/cubecoinproject-ops)  
+- GitHub Pages: [cubecoinproject.github.io/cube-assets](https://cubecoinproject.github.io/cube-assets)  
 - X (Twitter) – Cyrus EF: [@cyruscbf](https://x.com/cyruscbf)  
 - Email – Cyrus EF: [cyrus.cbf@gmail.com](mailto:cyrus.cbf@gmail.com)  
 - Medium: [Coming Soon]
