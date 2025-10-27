@@ -1,20 +1,54 @@
-# 🧱 Cube Ecosystem
+# 🧱 Cube Ecosystem – Official Page
 
-Cube is a modular Web3 infrastructure focused on ethical governance, treasury automation, and creative protocol design. Built on Polygon, Cube is designed for gradual decentralization and resilient stewardship.
+Welcome to the official page of **CubeCoin**, a meaning-driven token ecosystem built on the Polygon (MATIC) network.
 
-## 🔗 Verified Contracts
-- CubeCoin: `0x966c3E5c3225af9ABdEbE8Db52D65f51E63037C6`
-- Unified: `0x084C6970e4Efb2f72b55caCEf2b6Afa7AD5A524C`
-- TimelockController: `0x3cF2a1F7Ff3A2bFfB9f6c6B9c7f2E6c2F3F3F3F3`
+Cube is more than a token—it is a system of meaning, resilience, and trust. Every contract, role, and transfer is designed to preserve autonomy and prepare for gradual decentralization.
 
-## 📜 Resources
-- [GitHub Repository](https://github.com/cubecoinproject-ops/cube)
-- [Whitepaper (coming soon)](https://github.com/cubecoinproject-ops/cube-assets)
-- [Medium](https://medium.com/@cubecoinproject)
-- [X (Twitter)](https://x.com/Cube_Ecosystem)
+---
 
-## 🖼 Logo
-![Cube Logo](https://raw.githubusercontent.com/cubecoinproject-ops/cube-assets/main/cube.svg)
+## 🌐 Network Information
+
+- **Network**: Polygon (MATIC)  
+- **Chain ID**: 137  
+- **RPC URL**: https://polygon-rpc.com  
+- **Block Explorer**: [Polygonscan – CubeCoin](https://polygonscan.com/address/0x966c3E5c3225af9ABdEbE8Db52D65f51E63037C6)
+
+---
+
+## 📜 Core Contracts
+
+| Contract             | Address                                      | Purpose                                           |
+|----------------------|----------------------------------------------|---------------------------------------------------|
+| `CubeCoin`           | `0x966c3E5c3225af9ABdEbE8Db52D65f51E63037C6` | ERC20 token with mint/burn, cooldown, and pause  |
+| `CubeCoinUnified`    | `0x084C6970e4Efb2f72b55caCEf2b6Afa7AD5A524C` | Distribution, airdrop, and supply management     |
+| `TimelockController` | `0x3cF2a1F7Ff3A2bFfB9f6c6B9c7f2E6c2F3F3F3F3` | Governance and delayed execution                 |
+
+---
+
+## 🛡️ Governance & Philosophy
+
+Cube uses `TimelockController` to enforce delayed execution and decentralized control. All sensitive roles are revoked from EOAs and assigned to governance contracts.
+
+Cube is stewarded by family, documented for community, and protected for the future.
+
+📄 [Whitepaper](https://github.com/cubecoinproject-ops/cube-assets/blob/main/docs/whitepaper.md)  
+📄 [Governance Setup](https://github.com/cubecoinproject-ops/cube-assets/blob/main/rollout/governance-setup.md)  
+📄 [Transaction Log](https://github.com/cubecoinproject-ops/cube-assets/blob/main/rollout/tx-hashes.md)
+
+---
+
+## 👤 Founder
+
+Cube was founded by **Cyrus EF**, a meaning-driven architect focused on ethical systems and resilient infrastructure. Stewardship is shared with two trusted brothers, each holding operational roles and participating in governance.
+
+---
+
+## 📬 Contact & Updates
+
+- GitHub: [github.com/cubecoinproject-ops](https://github.com/cubecoinproject-ops)  
+- X (Twitter) – Cyrus EF: [@cyruscbf](https://x.com/cyruscbf)  
+- Email – Cyrus EF: [cyrus.cbf@gmail.com](mailto:cyrus.cbf@gmail.com)  
+- Medium: [Coming Soon]
 
 ---
 
