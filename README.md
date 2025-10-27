@@ -63,6 +63,7 @@ Cube implements multi-tiered access control and timelock governance:
 All tokens are distributed via the `Unified` contract.  
 📄 [Whitepaper](https://github.com/cubecoinproject-ops/cube-assets/blob/main/docs/whitepaper.md)
 📄 [Tokenomics](https://github.com/cubecoinproject-ops/cube-assets/blob/main/docs/tokenomics.md)
+📄 [Governance Roles](https://github.com/cubecoinproject-ops/cube-assets/blob/main/docs/roles.md)
 
 
 ---
