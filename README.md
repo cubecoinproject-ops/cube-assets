@@ -61,52 +61,60 @@ Cube implements multi-tiered access control and timelock governance:
 | Treasury Reserve       | 10,000,000,000       | Sustainability and deflationary burns             |
 
 All tokens are distributed via the `Unified` contract.  
-📄 [Whitepaper](https://github.com/cubecoinproject-ops/cube-assets/blob/main/docs/whitepaper.md)
-📄 [Tokenomics](https://github.com/cubecoinproject-ops/cube-assets/blob/main/docs/tokenomics.md)
+📄 [Whitepaper](https://github.com/cubecoinproject-ops/cube-assets/blob/main/docs/whitepaper.md)  
+📄 [Tokenomics](https://github.com/cubecoinproject-ops/cube-assets/blob/main/docs/tokenomics.md)  
 📄 [Governance Roles](https://github.com/cubecoinproject-ops/cube-assets/blob/main/docs/roles.md)
-
 
 ---
 
 ## 📁 Repository Structure
--  cube-assets/
+  ```
+cube-assets/
 ├── cube.svg
 ├── README.md
-├── LICENSE
+├── LICENSE-CUBE.md
 ├── docs/
 │   ├── whitepaper.md
+│   ├── tokenomics.md
+│   ├── roles.md
 │   ├── architecture.md
 │   ├── investor-brief.md
+│   └── whitepaper.pdf
 ├── rollout/
 │   ├── distribution-log.md
 │   ├── tx-hashes.md
 │   └── governance-setup.md
+```
+
+
 
 
 ---
 
 ## 🧠 Philosophy
 
-Cube is more than a token—it’s a system of meaning, resilience, and trust. Every contract, role, and transfer is designed to preserve autonomy and prepare for gradual decentralization. The ecosystem is stewarded by family, documented for community, and protected for the future.
+Cube is more than a token—it’s a system of meaning, resilience, and trust. Every contract, role, and transfer is designed to preserve autonomy and prepare for gradual decentralization. The ecosystem is stewarded with presence, documented for community, and protected for the future.
 
 ---
 
 ## 👤 Founder
 
-Cube was founded by **Cyrus EF**, a meaning-driven architect focused on ethical systems and resilient infrastructure. Stewardship is shared with two trusted brothers, each holding operational roles and participating in governance.
+Cube was founded by **Cyrus EF**, a meaning-driven architect focused on ethical systems and resilient infrastructure.  
+Founder communications are handled via Gmail due to platform constraints.  
+All updates are signed and published by Cyrus EF.
 
 ---
 
 ## 📬 Contact & Updates
 
 - GitHub: [github.com/cubecoinproject-ops](https://github.com/cubecoinproject-ops)  
-- GitHub Pages: [cubecoinproject.github.io/cube](https://cubecoinproject.github.io/cube/)  
+- GitHub Pages: [cubecoinproject-ops.github.io/cube-assets](https://cubecoinproject-ops.github.io/cube-assets/)  
 - X (Twitter) – Cyrus EF: [@cyruscbf](https://x.com/cyruscbf)  
 - Email – Cyrus EF: [cyrus.cbf@gmail.com](mailto:cyrus.cbf@gmail.com)  
-- Medium: [Coming Soon]
 - [Download Whitepaper (PDF)](docs/whitepaper.pdf)
 
 ---
+
 ## 📘 Documentation
 
 Cube Ecosystem is a meaning-centric Web3 infrastructure. Explore the following resources:
@@ -118,11 +126,5 @@ Cube Ecosystem is a meaning-centric Web3 infrastructure. Explore the following r
 
 ---
 
-Founder: Cyrus EF  
-Email: cyrus.cbf@gmail.com  
-X (Twitter): [@cyruscbf](https://x.com/cyruscbf)
-
 **⚠️ Note**: All assets and documentation are proprietary. Redistribution or reuse without written permission is prohibited.  
 _Last updated: October 2025_
-
-
