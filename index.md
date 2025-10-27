@@ -80,7 +80,6 @@ Cube was founded by **Cyrus EF**, a meaning-driven architect focused on ethical 
 - [Tokenomics](docs/tokenomics.md)  
 - [Governance Roles](docs/roles.md)  
 - [LICENSE-CUBE.md](LICENSE-CUBE.md)
-
 ---
 
 Founder: Cyrus EF  
