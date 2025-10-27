@@ -30,21 +30,22 @@ Cube is more than a token—it is a system of meaning, resilience, and trust. Ev
 | `CubeCoinUnified`    | `0x084C6970e4Efb2f72b55caCEf2b6Afa7AD5A524C` | Distribution, airdrop, and supply management     |
 | `TimelockController` | `0x3cF2a1F7Ff3A2bFfB9f6c6B9c7f2E6c2F3F3F3F3` | Governance and delayed execution                 |
 
+All contracts are verified and publicly accessible on Polygonscan.
+
 ---
 
 ## 🛡️ Governance & Philosophy
 
 Cube uses `TimelockController` to enforce delayed execution and decentralized control. All sensitive roles are revoked from EOAs and assigned to governance contracts.
 
-Cube is stewarded by family, documented for community, and protected for the future.
+Cube is stewarded with presence, documented for community, and protected for the future.
 
 📄 [Whitepaper](https://github.com/cubecoinproject-ops/cube-assets/blob/main/docs/whitepaper.md)  
 📄 [Governance Setup](https://github.com/cubecoinproject-ops/cube-assets/blob/main/rollout/governance-setup.md)  
-📄 [Transaction Log](https://github.com/cubecoinproject-ops/cube-assets/blob/main/rollout/tx-hashes.md)
-📄 [Tokenomics](https://github.com/cubecoinproject-ops/cube-assets/blob/main/docs/tokenomics.md)
-📄 [Governance Roles](https://github.com/cubecoinproject-ops/cube-assets/blob/main/docs/roles.md)
+📄 [Transaction Log](https://github.com/cubecoinproject-ops/cube-assets/blob/main/rollout/tx-hashes.md)  
+📄 [Tokenomics](https://github.com/cubecoinproject-ops/cube-assets/blob/main/docs/tokenomics.md)  
+📄 [Governance Roles](https://github.com/cubecoinproject-ops/cube-assets/blob/main/docs/roles.md)  
 📄 [Download Whitepaper (PDF)](docs/whitepaper.pdf)
-
 
 ---
 
@@ -60,32 +61,54 @@ All allocations are managed via the `Unified` contract and logged transparently.
 
 ---
 
+## 📁 Repository Structure
+
+```
+cube-assets/
+├── cube.svg
+├── README.md
+├── LICENSE-CUBE.md
+├── docs/
+│   ├── whitepaper.md
+│   ├── tokenomics.md
+│   ├── roles.md
+│   ├── architecture.md
+│   ├── investor-brief.md
+│   └── whitepaper.pdf
+├── rollout/
+│   ├── distribution-log.md
+│   ├── tx-hashes.md
+│   └── governance-setup.md
+```
+
+---
+
 ## 👤 Founder
 
-Cube was founded by **Cyrus EF**, a meaning-driven architect focused on ethical systems and resilient infrastructure. Stewardship is shared with two trusted brothers, each holding operational roles and participating in governance.
+Cube was founded by **Cyrus EF**, a meaning-driven architect focused on ethical systems and resilient infrastructure.  
+Founder communications are handled via Gmail due to platform constraints.  
+All updates are signed and published by Cyrus EF.
 
 ---
 
 ## 📬 Contact & Updates
 
 - GitHub: [github.com/cubecoinproject-ops](https://github.com/cubecoinproject-ops)  
-- GitHub Pages: [cubecoinproject.github.io/cube-assets](https://cubecoinproject.github.io/cube-assets)  
+- GitHub Pages: [cubecoinproject-ops.github.io/cube-assets](https://cubecoinproject-ops.github.io/cube-assets/)  
 - X (Twitter) – Cyrus EF: [@cyruscbf](https://x.com/cyruscbf)  
 - Email – Cyrus EF: [cyrus.cbf@gmail.com](mailto:cyrus.cbf@gmail.com)  
-- <!-- Medium link temporarily removed until page is published -->
+<!-- Medium link temporarily removed until page is published -->
 
-## 📄 Resources
+---
+
+## 📘 Resources
 
 - [Whitepaper (PDF)](docs/whitepaper.pdf)  
 - [Tokenomics](docs/tokenomics.md)  
 - [Governance Roles](docs/roles.md)  
 - [LICENSE-CUBE.md](LICENSE-CUBE.md)
----
-
-Founder: Cyrus EF  
-Email: cyrus.cbf@gmail.com  
-X (Twitter): [@cyruscbf](https://x.com/cyruscbf)
 
 ---
 
-© 2025 Cube Ecosystem. All rights reserved.
+**⚠️ Note**: All assets and documentation are proprietary. Redistribution or reuse without written permission is prohibited.  
+_Last updated: October 2025_
