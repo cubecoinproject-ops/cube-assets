@@ -125,6 +125,12 @@ Cube Ecosystem is a meaning-centric Web3 infrastructure. Explore the following r
 - [LICENSE-CUBE.md](LICENSE-CUBE.md)
 
 ---
+## 📬 Founder Communications
+
+Cube Ecosystem uses Gmail for founder communications due to platform constraints.  
+All updates are signed and published by Cyrus EF.  
+Public profile is available via X (Twitter): [https://x.com/cyruscbf](https://x.com/cyruscbf)
+
 
 **⚠️ Note**: All assets and documentation are proprietary. Redistribution or reuse without written permission is prohibited.  
 _Last updated: October 2025_
