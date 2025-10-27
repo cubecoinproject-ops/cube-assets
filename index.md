@@ -1,4 +1,4 @@
-![Cube Logo](cube.svg)
+<img src="cube.svg" alt="Cube Logo" width="120" />
 
 # 🧱 Cube Ecosystem – Official Page
 
