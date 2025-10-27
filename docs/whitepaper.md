@@ -84,13 +84,15 @@ Cube is not just a token—it is a philosophy encoded in smart contracts.
 ## 8. Resources
 
 - [GitHub Repository](https://github.com/cubecoinproject-ops/cube-assets)  
-- [Governance Setup](https://github.com/cubecoinproject-ops/cube-assets/blob/main/rollout/governance-setup.md)  
+- [Governance Setup](https://github.com/cubecoinproject-ops/cube-assets/blob/main/rollout/governance-setup.md)
+- [Governance Roles](https://github.com/cubecoinproject-ops/cube-assets/blob/main/docs/roles.md)
+
 - [Transaction Log](https://github.com/cubecoinproject-ops/cube-assets/blob/main/rollout/tx-hashes.md)  
 - [Logo](https://raw.githubusercontent.com/cubecoinproject-ops/cube-assets/main/cube.svg)  
 - [Official Page](https://cubecoinproject.github.io/cube/)  
 - [X (Twitter) – Cyrus EF](https://x.com/cyruscbf)  
 - [Email – Cyrus EF](mailto:cyrus.cbf@gmail.com)
-
+ 
 ---
 
 © 2025 Cube Ecosystem. All rights reserved.
