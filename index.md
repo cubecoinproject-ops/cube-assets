@@ -43,6 +43,7 @@ Cube is stewarded by family, documented for community, and protected for the fut
 📄 [Transaction Log](https://github.com/cubecoinproject-ops/cube-assets/blob/main/rollout/tx-hashes.md)
 📄 [Tokenomics](https://github.com/cubecoinproject-ops/cube-assets/blob/main/docs/tokenomics.md)
 📄 [Governance Roles](https://github.com/cubecoinproject-ops/cube-assets/blob/main/docs/roles.md)
+📄 [Download Whitepaper (PDF)](docs/whitepaper.pdf)
 
 
 ---
@@ -72,7 +73,6 @@ Cube was founded by **Cyrus EF**, a meaning-driven architect focused on ethical 
 - X (Twitter) – Cyrus EF: [@cyruscbf](https://x.com/cyruscbf)  
 - Email – Cyrus EF: [cyrus.cbf@gmail.com](mailto:cyrus.cbf@gmail.com)  
 - Medium: [Coming Soon]
-- 📄 [Download Whitepaper (PDF)](docs/whitepaper.pdf)
 
 ---
 
