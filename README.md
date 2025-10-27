@@ -109,10 +109,18 @@ Cube was founded by **Cyrus EF**, a meaning-driven architect focused on ethical 
 ---
 ## 📘 Documentation
 
+Cube Ecosystem is a meaning-centric Web3 infrastructure. Explore the following resources:
+
 - [Whitepaper (PDF)](docs/whitepaper.pdf)  
 - [Tokenomics](docs/tokenomics.md)  
 - [Governance Roles](docs/roles.md)  
 - [LICENSE-CUBE.md](LICENSE-CUBE.md)
+
+---
+
+Founder: Cyrus EF  
+Email: cyrus.cbf@gmail.com  
+X (Twitter): [@cyruscbf](https://x.com/cyruscbf)
 
 **⚠️ Note**: All assets and documentation are proprietary. Redistribution or reuse without written permission is prohibited.  
 _Last updated: October 2025_
