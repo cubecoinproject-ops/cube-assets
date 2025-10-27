@@ -41,6 +41,7 @@ Cube is stewarded by family, documented for community, and protected for the fut
 📄 [Whitepaper](https://github.com/cubecoinproject-ops/cube-assets/blob/main/docs/whitepaper.md)  
 📄 [Governance Setup](https://github.com/cubecoinproject-ops/cube-assets/blob/main/rollout/governance-setup.md)  
 📄 [Transaction Log](https://github.com/cubecoinproject-ops/cube-assets/blob/main/rollout/tx-hashes.md)
+📄 [Tokenomics](https://github.com/cubecoinproject-ops/cube-assets/blob/main/docs/tokenomics.md)
 
 ---
 
