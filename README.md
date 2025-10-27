@@ -104,6 +104,7 @@ Cube was founded by **Cyrus EF**, a meaning-driven architect focused on ethical 
 - X (Twitter) – Cyrus EF: [@cyruscbf](https://x.com/cyruscbf)  
 - Email – Cyrus EF: [cyrus.cbf@gmail.com](mailto:cyrus.cbf@gmail.com)  
 - Medium: [Coming Soon]
+- [Download Whitepaper (PDF)](docs/whitepaper.pdf)
 
 ---
 
