@@ -72,7 +72,11 @@ Cube was founded by **Cyrus EF**, a meaning-driven architect focused on ethical 
 - GitHub Pages: [cubecoinproject.github.io/cube-assets](https://cubecoinproject.github.io/cube-assets)  
 - X (Twitter) – Cyrus EF: [@cyruscbf](https://x.com/cyruscbf)  
 - Email – Cyrus EF: [cyrus.cbf@gmail.com](mailto:cyrus.cbf@gmail.com)  
-- Medium: [Coming Soon]
+- <!-- Medium link temporarily removed until page is published -->
+Founder: Cyrus EF  
+Email: cyrus.cbf@gmail.com  
+X (Twitter): [@cyruscbf](https://x.com/cyruscbf)
+
 
 ---
 
