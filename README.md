@@ -69,7 +69,7 @@ All tokens are distributed via the `Unified` contract.
 ---
 
 ## 📁 Repository Structure
-cube-assets/
+-  cube-assets/
 ├── cube.svg
 ├── README.md
 ├── LICENSE
@@ -107,6 +107,12 @@ Cube was founded by **Cyrus EF**, a meaning-driven architect focused on ethical 
 - [Download Whitepaper (PDF)](docs/whitepaper.pdf)
 
 ---
+## 📘 Documentation
+
+- [Whitepaper (PDF)](docs/whitepaper.pdf)  
+- [Tokenomics](docs/tokenomics.md)  
+- [Governance Roles](docs/roles.md)  
+- [LICENSE-CUBE.md](LICENSE-CUBE.md)
 
 **⚠️ Note**: All assets and documentation are proprietary. Redistribution or reuse without written permission is prohibited.  
 _Last updated: October 2025_
