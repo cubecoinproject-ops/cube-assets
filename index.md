@@ -94,7 +94,7 @@ All updates are signed and published by Cyrus EF.
 ## 📬 Contact & Updates
 
 - GitHub: [github.com/cubecoinproject-ops](https://github.com/cubecoinproject-ops)  
-- GitHub Pages: [cubecoinproject-ops.github.io/cube-assets](https://cubecoinproject-ops.github.io/cube-assets/)  
+- GitHub Pages: [cubecoinproject-ops.github.io/cube-assets](https://cubecoinproject-ops.github.io/cube-assets/)
 - X (Twitter) – Cyrus EF: [@cyruscbf](https://x.com/cyruscbf)  
 - Email – Cyrus EF: [cyrus.cbf@gmail.com](mailto:cyrus.cbf@gmail.com)  
 <!-- Medium link temporarily removed until page is published -->
