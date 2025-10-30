@@ -3,7 +3,7 @@ layout: default
 title: Cube Ecosystem
 ---
 
-<img src="cube.svg" alt="Cube Logo" width="120" />
+<img src="cubelogo.png" alt="Cube Logo" width="120" />
 
 # 🧱 Cube Ecosystem – Official Page
 
